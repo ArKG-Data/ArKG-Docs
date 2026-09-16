@@ -1,14 +1,15 @@
 # ArKG data documentation
 
-On this site, you can download the latest version of the ArKG dataset and find some preliminary documentation (under development). At the bottom, you can find and download the different versions of the dataset. Next, we briefly present some technical details of the graph representation. 
+On this site, you can download the latest version of the ArKG dataset and find some preliminary documentation (under development). At the bottom, you can find and download the different versions of the dataset. Next, we briefly present some technical details of the graph representation.
 
 The ArKG knowledge graph is modeled as an RDF graph, a format for describing graph data. Data is stored as triples:
 
 > (subject, predicate, object)
 
-where *subject* and *object* are nodes in the graph data, and *predicate* is a label that gives a meaning to the connection between both. In ArKG, each date data item is a node, connected to other data items (such as locations, dates, materials, etc.) through triples. Therefore, the predicates state the *type* of the connection between different data items. 
+where *subject* and *object* are nodes in the graph data, and *predicate* is a label that gives a meaning to the connection between both. In ArKG, each date data item is a node, connected to other data items (such as locations, dates, materials, etc.) through triples. Therefore, the predicates state the *type* of the connection between different data items.
 
 The following namespaces and prefixes are used in ArKG:
+
 | Prefix | Namespace URI | Description |
 | :------- | :------- | :------- |
 | **`rdf:`** | <http://www.w3.org/1999/02/22-rdf-syntax-ns#> | RDF syntax vocabulary. |
@@ -17,7 +18,7 @@ The following namespaces and prefixes are used in ArKG:
 | **`wdt:`** | <http://www.wikidata.org/prop/direct/> | Wikidata direct properties. |
 | **`:`** | <https://arkg.cl/> | ArKG custom vocabulary. |
 
-The following table describes each predicate currently supported/used in ArKG: 
+The following table describes each predicate currently supported/used in ArKG:
 
 | Predicate | Description |
 | :------- | :------- |
@@ -38,5 +39,3 @@ The following table describes each predicate currently supported/used in ArKG:
 | **`:delta13C`** | Measure of the proportion of stable carbon isotopes.|
 | **`:sample_type_info`** | Information about the type of sample analyzed.|
 | **`:age_info`** | Additional information about the archaeological age.|
-
-

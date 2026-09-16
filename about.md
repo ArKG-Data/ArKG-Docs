@@ -1,10 +1,10 @@
 # About
 
-ArKG is an initiative led by an interdisciplinary research group from Archeology, Physics, and Computer Science. Currently, most of the group is from Pontificia Universidad Católica de Chile; however, the initiative is open to the entire community. 
+ArKG is an initiative led by an interdisciplinary research group from Archeology, Physics, and Computer Science. Currently, most of the group is from Pontificia Universidad Católica de Chile; however, the initiative is open to the entire community.
 
 To contribute and join the team, please get in touch with us at [roberto.campbell@uc.cl](roberto.campbell@uc.cl).
 
-Below is a list of current and past participants, along with further references on the project. 
+Below is a list of current and past participants, along with further references on the project.
 
 ## Current participants
 
@@ -15,6 +15,8 @@ Below is a list of current and past participants, along with further references 
 * [Francisca Moya](https://antropologia.uc.cl/la-escuela/academicos/francisca-moya/), PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * [Víctor Méndez](https://www.researchgate.net/profile/Victor-Mendez), Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Matías Bravo, Arqueólogo. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Vicente Rivas, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Rocío Cornejo, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
 ### From Physics
 
