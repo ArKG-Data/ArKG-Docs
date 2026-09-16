@@ -7,7 +7,7 @@
 **APA 7:**
 > Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2025). ArKG Chile: Hacia una base de datos unificada para fechados (y otros datos). Ponencia presentada en el V Taller de Arqueología e Isótopos en el Sur de Sudamérica, Coyhaique, Chile.
 
-[Download presentation (PDF) →](https://github.com/ArKG-Data/ArKG-docs/raw/main/Campbell%20et%20al%202025.pdf)
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Campbell%20et%20al%202025.pdf)
 
 **BibTeX:**
 
@@ -30,7 +30,7 @@
 **APA 7:**
 > Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Mendoza, J., Cifuentes, M., y Bravo, M. (2026). ArKG: Building a Digital Infrastructure for Archaeological Dates. Ponencia presentada en el 3rd Latin American Radiocarbon Conference / CLARa, Santiago, Chile.
 
-[Download presentation (PDF) →](https://github.com/ArKG-Data/ArKG-docs/raw/main/Campbell%20et%20al%202026.pdf)
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Campbell%20et%20al%202026.pdf)
 
 **BibTeX:**
 
@@ -54,7 +54,7 @@
 **APA 7:**
 > Bravo Maureira, M. (2026). Historia de uso de los fechados de termoluminiscencia en la arqueología chilena (y Argentina) desde 1977 hasta 2007. Ponencia presentada en el XXII Congreso Nacional de Arqueología Argentina, Buenos Aires, Argentina.
 
-[Download presentation (PDF) →](https://github.com/ArKG-Data/ArKG-docs/raw/main/Bravo%2026.pdf)
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Bravo%202026.pdf)
 
 **BibTeX:**
 
@@ -98,6 +98,7 @@
 # Press & Social Media
 
 ## ArKG: Grafos al servicio de la arqueología
+
 *December 3, 2025 — Instituto Milenio Fundamentos de los Datos (IMFD)*
 
 ArKG was presented at the **V Taller de Arqueología e Isótopos en el Sur de Sudamérica** in Coyhaique. The article covers the interdisciplinary project bringing together researchers from Anthropology, Physics, and Computer Science at PUC Chile and IMFD to organise, systematise, and openly distribute Chilean archaeological dating data using knowledge graphs and MillenniumDB.
@@ -107,6 +108,7 @@ ArKG was presented at the **V Taller de Arqueología e Isótopos en el Sur de Su
 ---
 
 ## ArKG on Instagram
+
 *[@antropologia_uc](https://www.instagram.com/antropologia_uc/) — Instagram Reel*
 
 Prof. Roberto Campbell (Escuela de Antropología UC) presents ArKG: an interdisciplinary project combining Archaeology, Computer Science, and Physics. Radiocarbon and thermoluminescence dates are fundamental to archaeological knowledge about past societies, yet this information is not adequately preserved, organised, or accessible. ArKG aims to build a system that addresses these problems for Chilean archaeology — and beyond. The initiative brings together researchers from Escuela de Antropología UC, Departamento de Física UC, Instituto Milenio Fundamentos de los Datos, and Licenciatura en Ciencia de la Computación UC.
