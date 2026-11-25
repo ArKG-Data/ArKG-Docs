@@ -46,6 +46,75 @@ We thank the following institutions for their support:
 * [Instituto Milenio de los Fundamentos de los datos (IMFD)](https://imfd.cl/)
 * [Pontificia Universidad Católica de Chile](www.uc.cl)
 
+## Publications
+
+### Conference papers
+
+**APA 7:**
+> Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Mendoza, J., Cifuentes, M., y Bravo, M. (2026). ArKG: Building a Digital Infrastructure for Archaeological Dates. Ponencia presentada en el 3rd Latin American Radiocarbon Conference / CLARa, Santiago, Chile.
+
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Campbell%20et%20al%202026.pdf)
+
+**BibTeX:**
+
+```bibtex
+
+@unpublished{campbell2026arkg,
+  author    = {Campbell, Roberto and Méndez, Víctor and Arenas, Marcelo 
+               and Riveros, Cristián and Caprile, Paola 
+               and {Santana Sagredo}, Francisca and Moya, Francisca 
+               and Kutulas, Andrés and Leiva, Matías 
+               and Maldonado, Matías and Mendoza, José 
+               and Cifuentes, Manuel and Bravo, Matías},
+  title     = {{ArKG}: Building a Digital Infrastructure for 
+               Archaeological Dates},
+  note      = {Ponencia presentada en el 3rd Latin American 
+               Radiocarbon Conference / CLARa, Santiago, Chile},
+  year      = {2026},
+}
+```
+
+**APA 7:**
+> Bravo Maureira, M. (2026). Historia de uso de los fechados de termoluminiscencia en la arqueología chilena (y Argentina) desde 1977 hasta 2007. Ponencia presentada en el XXII Congreso Nacional de Arqueología Argentina, Buenos Aires, Argentina.
+
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Bravo%202026.pdf)
+
+**BibTeX:**
+
+```bibtex
+@unpublished{bravo2026termoluminiscencia,
+  author    = {Bravo Maureira, Matías},
+  title     = {Historia de uso de los fechados de termoluminiscencia en la 
+               arqueología chilena (y Argentina) desde 1977 hasta 2007},
+  note      = {Ponencia presentada en el XXII Congreso Nacional de 
+               Arqueología Argentina, Buenos Aires, Argentina},
+  year      = {2026},
+}
+```
+
+**APA 7:**
+> Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2025). ArKG Chile: Hacia una base de datos unificada para fechados (y otros datos). Ponencia presentada en el V Taller de Arqueología e Isótopos en el Sur de Sudamérica, Coyhaique, Chile.
+
+[Download presentation (PDF) →](https://raw.githubusercontent.com/ArKG-Data/ArKG-docs/main/Campbell%20et%20al%202025.pdf)
+
+**BibTeX:**
+
+```bibtex
+@unpublished{campbell2025arkg,
+  author    = {Campbell, Roberto and Méndez, Víctor and Arenas, Marcelo 
+               and Riveros, Cristián and Caprile, Paola 
+               and {Santana Sagredo}, Francisca and Moya, Francisca 
+               and Kutulas, Andrés and Leiva, Matías 
+               and Maldonado, Matías and Cifuentes, Manuel 
+               and Mendoza, José and Bravo, Matías},
+  title     = {{ArKG Chile}: Hacia una base de datos unificada para 
+               fechados (y otros datos)},
+  note      = {Ponencia presentada en el V Taller de Arqueología e 
+               Isótopos en el Sur de Sudamérica, Coyhaique, Chile},
+  year      = {2025},
+}
+```
+
 ## Further references
 
 - Ministerio de las Culturas, las Artes y el Patrimonio. (2024). _Estrategia Nacional de Patrimonios Digitales 2024-2029_. [https://www.cultura.gob.cl/wp-content/uploads/2024/04/informe-enpd.pdf](https://www.cultura.gob.cl/wp-content/uploads/2024/04/informe-enpd.pdf)
